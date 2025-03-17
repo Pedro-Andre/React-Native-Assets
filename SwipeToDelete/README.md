@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/99ef123c-3298-4851-a81f-6c79d072306b
 
 <b style="font-size: 20px">useRef:</b> React hook used to ensure that other items remain open even when one is deleted.
 
-## Intall Depencies:
+## Intall Dependencies:
 ```
 npm install
 ```
